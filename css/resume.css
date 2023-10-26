@@ -114,6 +114,10 @@ a {
   a:hover, a:focus, a:active {
     color: #824027; }
 
+i {
+  font-size: 24px; /* Adjust the size as needed */
+}
+
 .video-and-description {
   display:flex;
   align-items: center;
