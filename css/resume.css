@@ -115,7 +115,7 @@ a {
     color: #824027; }
 
 i {
-  font-size: 24px; /* Adjust the size as needed */
+  font-size: 60px; /* Adjust the size as needed */
 }
 
 .video-and-description {
@@ -129,4 +129,18 @@ i {
 
 .project-desc{
   flex: 1;
+}
+
+.list-inline-item{
+  align-items: center;
+  text-align: center;
+}
+
+.name-plate{
+  font-size: 15px;
+}
+
+.project-img{
+  max-width: 100%;
+  height: auto;
 }
